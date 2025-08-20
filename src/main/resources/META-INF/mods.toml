@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="horizoniteextractor"
+version="1.0.0"
+displayName="Horizonite Extractor"
+description="Custom Horizonite Oven that mirrors Blue Skies' Horizonite Forge, with custom hopper/conveyor IO."
